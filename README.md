@@ -1,1 +1,1 @@
-# Duck-Game
+# Duck-Hunt Game
